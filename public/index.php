@@ -2,27 +2,39 @@
 if (isset($_GET["p"])) {
     switch ($_GET["p"]) {
 
-        case "Geographie":
-        include ("../templates/geographie.php");
-        break;
+        case "geographie":
+            include ("../templates/geographie.php");
+                break;
 
-        case "HistoireView":
+        case "histoire":
             include ("../templates/histoire.php");
-            break;
+                break;
 
-            case "":
-                include ("../templates/contactView.php");
+        case "culture":
+            include ("../templates/culture.php");
+                break;
+
+        case "galerie":
+            include ("../templates/galerie.php");
+                break;
+            
+        case "contacts":
+            include ("../templates/contacts.php");
+                break;
+            
+        case "liens":
+            include ("../templates/liens.php");
                 break;
 
 
-                default:
-                include("../templates/error404View.php");
+        default:
+                include("../templates/page-404.php");
                
 
 
         }
     }else{
-        include("../templates/accueilView.php");
+        include("../templates/accueil.php");
     }
 
 
