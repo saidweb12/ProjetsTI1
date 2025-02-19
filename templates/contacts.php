@@ -10,7 +10,7 @@
        <body>
 
         <header>
-          <h1> Bienvenue sur Contacts</h1>
+          <h1>  Contacts</h1>
         </header>
 
         <img src="img/banniere.jpg" alt="banniere" class= "banni"> 
@@ -22,6 +22,14 @@ include("inc/menu.php");
         ?>
 
 <img src="img/contacts.jpg" alt="contacts" class= "conta">
+
+<form >
+  <label >Nom:</label><br>
+  <input type="text"  value=""><br>
+  <label >Prenom:</label><br>
+  <input type="text"  value=""><br><br>
+  <input type="submit" value="Submit">
+</form>
 
 
         </body>

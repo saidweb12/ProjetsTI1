@@ -10,12 +10,12 @@
        <body>
 
         <header>
-          <h1> Bienvenue sur Galerie</h1>
+          <h1> Galerie </h1>
         </header>
 
 
         <img src="img/banniere.jpg" alt="banniere" class= "banni"> 
-        
+
         <?php
 
 include("inc/menu.php");

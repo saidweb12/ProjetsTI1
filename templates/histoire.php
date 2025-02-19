@@ -10,7 +10,7 @@
        <body>
 
         <header>
-          <h1> Bienvenue sur Histoire</h1>
+          <h1>  Histoire </h1>
         </header>
 
         <img src="img/banniere.jpg" alt="banniere" class= "banni"> 

@@ -8,30 +8,32 @@ body{
 }
 
 
- /* nav{
+/* nav{
 display: flex;
 text-align: center;
 align-items: center;
 width: 1280px;
 border-radius: 10px;
+border: 2px;
 
 
-}  */
+}   */
 nav ul li {
     display: inline; 
     margin: 0 10px; 
     font-size: 20px;
-    border-radius: 10px;
+   
 }
   
 nav a {
     text-decoration: none;
+  
 
 } 
 
 
 nav a:hover {
-    background-color: brown;
+    background-color: black;
   
 
 }
@@ -44,10 +46,7 @@ nav ul {
 }
 
 
-li {
 
-    display: inline;
-} */
 
 
 

@@ -10,7 +10,7 @@
        <body>
 
         <header>
-          <h1> Bienvenue sur Liens </h1>
+          <h1> Liens </h1>
         </header>
         <img src="img/banniere.jpg" alt="banniere" class= "banni"> 
       

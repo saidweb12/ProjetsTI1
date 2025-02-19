@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1><page-404</h1>
+
+
+    <img src="img/404.jpg" alt="ERROR" class= "404"> 
 </body>
 </html>
