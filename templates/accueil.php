@@ -8,23 +8,20 @@
     
 </head>
        <body>
-        <div class=banniere>
-            <img scr="img/banniere.jpg" alt= "banniere">
-
-        </div>
-
-
-
-
+        
         <header>
-          <h1> Bienvenue sur Accueil</h1>
+          <h1> Lisbonne</h1>
         </header>
+
+        <img src="img/banniere.jpg" alt="banniere" class= "banni">  
         
         <?php
 
             include("inc/menu.php");
 
         ?>
+
+<img src="img/armoiries.png" alt="armoiries" class= "armoi">  
 
         <div class= "texte">
 

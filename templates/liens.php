@@ -12,12 +12,14 @@
         <header>
           <h1> Bienvenue sur Liens </h1>
         </header>
+        <img src="img/banniere.jpg" alt="banniere" class= "banni"> 
       
         <?php
 
 include("inc/menu.php");
 
         ?>
+        <img src="img/liens.jpg" alt="lien" class= "lien">
 
 
         </body>

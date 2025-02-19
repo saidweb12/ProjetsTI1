@@ -1,3 +1,74 @@
+body{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    width: 1280px;
+    margin: 0px auto;
+    background-color: white;
+}
+
+
+ /* nav{
+display: flex;
+text-align: center;
+align-items: center;
+width: 1280px;
+border-radius: 10px;
+
+
+}  */
+nav ul li {
+    display: inline; 
+    margin: 0 10px; 
+    font-size: 20px;
+    border-radius: 10px;
+}
+  
+nav a {
+    text-decoration: none;
+
+} 
+
+
+nav a:hover {
+    background-color: brown;
+  
+
+}
+
+
+nav ul {
+    list-style-type: none; 
+    justify-content: center;
+    display: flex;
+}
+
+
+li {
+
+    display: inline;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 h1{
     background-color: rgb(255, 225, 196);
 }

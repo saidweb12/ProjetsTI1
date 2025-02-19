@@ -12,6 +12,8 @@
         <header>
           <h1> Bienvenue sur Histoire</h1>
         </header>
+
+        <img src="img/banniere.jpg" alt="banniere" class= "banni"> 
         
         <?php
 
@@ -19,6 +21,8 @@ include("inc/menu.php");
 
         ?>
         <div class="his">
+
+        <img src="img/histoire.jpg" alt="histoire" class= "histo">
             
 <h2>Du Néolithique à l'Empire romain</h2>
 

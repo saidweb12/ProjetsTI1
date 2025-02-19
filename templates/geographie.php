@@ -10,14 +10,21 @@
        <body>
 
         <header>
-          <h1> Bienvenue sur Geographie</h1>
+          <h1>geographie </h1>
         </header>
+        <img src="img/banniere.jpg" alt="banniere" class= "banni"> 
+
+        
+         
        
         <?php
 
 include("inc/menu.php");
 
         ?>
+
+
+<img src="img/geographie.png" alt="geographie" class= "geo">
         <div class="geo">
 
         <p>Lisbonne est la capitale la plus occidentale d'Europe continentale. Elle est située entre l'océan Atlantique à l'ouest et la mer de Paille à l'est (communiquant entre eux par un détroit) dans laquelle se jette le Tage. La ville occupe un territoire de 84,7 km2. Elle est située à 177 km au sud-sud-ouest de Coimbra, à 189 km au nord-nord-ouest de Faro, à 274 km au sud de Porto et à 502 km à l'ouest-sud-ouest de Madrid, la capitale espagnole.
